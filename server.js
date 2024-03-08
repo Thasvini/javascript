@@ -61,7 +61,7 @@ async function connection(){
     console.log("DB connected successfully")
     }
     catch(e){
-    console.log("Error"+e)
+    console.log("Error foundd"+e)
     }
 }
 connection()
